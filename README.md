@@ -87,7 +87,7 @@ A partir los insights, se procedió a lo siguiente:
 
     - WHAT IF el usuario no quiere pagar por internet. 
 
-- ### **STORYTELING:**
+- ### **STORYTELLING:**
 
     Enlace: [Click](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!123&ithint=file%2cdocx&app=Word&authkey=!ANVVkkEzNcjSrp4)
 
