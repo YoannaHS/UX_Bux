@@ -73,7 +73,7 @@ A partir los insights, se procedió a lo siguiente:
 
     - Juan necesita un modo fácil y rápido de comprar sus boletos de viaje por internet para ahorrar tiempo.
 
-- ### **HMW (How Might We o Como podríamos):**
+- ### **HMW (How Might We o ¿Cómo podríamos?):**
     Se formularon las siguientes preguntas con el fin de entender mejor los problemas y desarrollar mejores hipótesis. 
 
     -  ¿Cómo podríamos hacer que nuestro usuario confíe en nuestra plataforma de venta de boletos?
@@ -88,10 +88,12 @@ A partir los insights, se procedió a lo siguiente:
     - WHAT IF el usuario no quiere pagar por internet. 
 
 - ### **STORYTELLING:**
+    Nos permite entender las necesidades del usuario y empatizar con él.
 
     Enlace: [Click](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!123&ithint=file%2cdocx&app=Word&authkey=!ANVVkkEzNcjSrp4)
 
 - ### **USER FLOW:**
+    Nos da un mayor entendimiendo de la experiencia que el usuario tiene con el flujo de nuestra plataforma.
 
      ![](assets/documents/user-flow.png)
 
