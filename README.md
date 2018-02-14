@@ -143,11 +143,6 @@ _Feedback_ recibido:
 - Usar data real
 - Enviar el código de reserva por mensaje de texto
 - Necesitan algo que certifique la seguridad para los pagos online.
-### **Storytelling:** [Click para leer](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!123&ithint=file%2cdocx&app=Word&authkey=!ANVVkkEzNcjSrp4)
-
-### **User Flow:**
-
-![User-Flow](assets/documents/user-flow.png)
 
 ### **Prototipo Final:**
 
