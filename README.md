@@ -1,4 +1,10 @@
-# **UX - Reto**
+# **La Terminal**
+---
+Es una plataforma de venta de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez en su compra.
+
+## Elaborado para
+
+[Laboratoria](http://www.laboratoria.la/)
 
 ## **Objetivo:**
 
